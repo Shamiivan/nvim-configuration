@@ -11,6 +11,7 @@
 - [] Add jump to definition
 - [] Add a todo tool
 - [] Fixing with code action is not working
-
+- [] Fix buffer issues
 <leader> 
+
 Search a string :
